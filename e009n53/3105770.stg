@@ -239,6 +239,7 @@ OBJECT_SHARED Models/Airport/hangar5.xml 9.691374 53.644892 7.49 344
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml 9.703363 53.645172 4.13 178
 OBJECT_SHARED Models/Aircraft/DR400-blue.xml 9.703122 53.645172 4.19 178
 OBJECT_SHARED Models/Aircraft/dhc2-baroudeur.xml 9.702542 53.644946 4.34 358
+OBJECT_SHARED Models/Communications/Antenna-Pylon.ac 9.724621 53.627795 15.93 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.702612 53.645204 4.31 178
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.5050467 53.7145233 0 121.27
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.52933 53.693 0 312.68

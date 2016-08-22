@@ -68,3 +68,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 7.11865 53.7495167
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 7.12335 53.74955 -5.25 318.52
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 7.1799931 53.6981872 0 193.22
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 7.1588333 53.7242167 -0.96 293.3
+OBJECT_STATIC Norderney_Lighthouse.xml 7.229672 53.709268 6.77 0
+OBJECT_STATIC EDWY-tower.ac 7.22696157 53.7080765 2.82 110.4
