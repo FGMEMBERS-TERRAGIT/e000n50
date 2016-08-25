@@ -147,7 +147,7 @@ OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 0.47739695 
 OBJECT_SHARED Models/Military/coleman-tow-tractor-odrab-low-poly.xml 0.47747900 52.35578183 6.4805 312.0 0.0 -0.0
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 0.47786795 52.35592013 6.4881 0.0 0.0 -0.0
 OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 0.47794080 52.35591796 6.4927 0.0 0.0 -0.0
-OBJECT_SHARED Models/EGOD/Stop-Sign.ac 0.47841099 52.35590027 6.3836 48.0 0.0 -0.0
+OBJECT_STATIC EGOD/Stop-Sign.ac 0.47841099 52.35590027 6.3836 48.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar2.ac 0.49776169 52.35723298 7.9420 256.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/hangar2.ac 0.49809857 52.35718147 7.9584 256.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/EDFEHangar65x40.ac 0.48362883 52.36973705 6.2081 56.0 0.0 -0.0
