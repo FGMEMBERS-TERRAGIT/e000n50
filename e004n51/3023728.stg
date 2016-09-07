@@ -36,6 +36,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.242788 51.8447187 -2.47 338.44
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2449486 51.8576268 -1.92 337.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2479207 51.8434672 -2.88 338.22
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2486823 51.8566832 -1.85 337.78
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 4.127769 51.819713 -1.57 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.00195 51.7656 -0.83 308.36
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.0034 51.855983 -0.14 298.11
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.009133 51.763283 -0.07 177.96

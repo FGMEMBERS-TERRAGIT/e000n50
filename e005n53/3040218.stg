@@ -43,6 +43,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 5.7263333 53.4331667 0.18 87.15
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 5.7291667 53.4321667 0.07 188.4
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 5.731494 53.431925 0.02 34.88
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 5.731772 53.430914 0.01 291.68
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 5.62573 53.44924 2.26 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.510678 53.466964 -0.6 141.05
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.527231 53.464206 -0.68 139.78
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.5438333 53.456 -0.36 99.34
