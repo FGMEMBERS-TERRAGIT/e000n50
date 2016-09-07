@@ -235,6 +235,8 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 4.221772 51.926314 1.9 28
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 4.226744 51.922564 0.59 45.73
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 4.232508 51.918592 0.99 92.25
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 4.247828 51.910814 1.83 359.67
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 4.125503 51.975855 -0.84 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 4.131758 51.974655 1.18 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.016406 51.886572 -0.19 347.37
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.024464 51.878836 -0.1 198.97
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.02785 51.989758 -0.1 250.06

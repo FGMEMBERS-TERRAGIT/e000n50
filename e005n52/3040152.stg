@@ -3,6 +3,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 5.12671 52.37856 -2.29 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.12965 52.38174 -2.07 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.13276 52.37828 -3.16 180
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 5.145236 52.419372 -2.83 296.25
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 5.139204 52.459785 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.032606 52.376022 -3.9 45.01
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.043314 52.463294 -1.13 57.41
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.045425 52.380731 -4.07 304.62

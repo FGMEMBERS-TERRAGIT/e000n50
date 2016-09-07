@@ -90,3 +90,4 @@ OBJECT_SHARED Models/Military/Martello_Tower_1.ac 0.330556 50.787222 0.81 0
 OBJECT_SHARED Models/Military/Martello_Tower_1.ac 0.335833 50.795833 0.41 0
 OBJECT_SHARED Models/Military/Martello_Tower_2.ac 0.384872 50.822925 2.05 0
 OBJECT_STATIC Eastbourne_Pier.ac 0.29273268 50.7668824 6.55 316
+OBJECT_STATIC Eastbourne_Redoubt.ac 0.30047919 50.7739744 5.44 48
