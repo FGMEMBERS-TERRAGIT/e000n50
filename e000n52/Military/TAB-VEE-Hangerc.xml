@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+ <path>TAB-VEE-Hangerc.ac</path>
+ 
+ <!-- NASAL -->
+
+ <nasal>
+  <load>
+   if (!contains(globals, "scenery")) globals["scenery"] = {};
+   if (!contains(scenery, "TABVEE")) scenery["TABVEE"] = {};
+   if (!contains(scenery.TABVEE, "hangar")) scenery.TABVEE["hangar"] = {};
+   if (contains(scenery, "sharedDoor")) {
+     scenery.TABVEE.hangar[0] =
+       { door :
+         [scenery.sharedDoor.new("/scenery/TABVEE/hangar[0]/door[0]", 50),
+          scenery.sharedDoor.new("/scenery/TABVEE/hangar[0]/door[1]", 50)
+         ]
+       };
+   } else {
+     scenery.TABVEE.hangar[0] =
+       { door :
+         [aircraft.door.new("/scenery/TABVEE/hangar[0]/door[0]", 50),
+          aircraft.door.new("/scenery/TABVEE/hangar[0]/door[1]", 50)
+         ]
+       };
+   }
+  </load>
+  <unload>
+   if (contains(scenery, "sharedDoor")) {
+     scenery.TABVEE.hangar[0].door[0].destroy();
+     scenery.TABVEE.hangar[0].door[1].destroy();
+   }
+  </unload>
+ </nasal>
+ 
+ <!-- DOORS -->
+ 
+ <animation>
+  <type>translate</type>
+  <object-name>doorleft</object-name>
+  <property>/scenery/TABVEE/hangar[0]/door[0]/position-norm</property>
+  <factor>-14</factor>
+    <axis>
+      <x>0</x>
+      <y>1</y>
+      <z>0</z>
+    </axis>
+  </animation>
+ 
+ <animation>
+  <type>translate</type>
+  <object-name>doorright</object-name>
+  <property>/scenery/TABVEE/hangar[0]/door[1]/position-norm</property>
+  <factor>14</factor>
+    <axis>
+      <x>0</x>
+      <y>1</y>
+      <z>0</z>
+    </axis>
+  </animation>
+ 
+ <animation>
+ <type>pick</type>
+ <object-name>doorleft</object-name>
+ <visible>true</visible>
+ <action>
+  <name>click</name>
+  <button>0</button>
+  <repeatable>false</repeatable>
+  <binding>
+   <command>nasal</command>
+   <script>scenery.TABVEE.hangar[0].door[0].toggle();</script>
+  </binding>
+ </action>
+</animation>
+
+<animation>
+ <type>pick</type>
+ <object-name>doorright</object-name>
+ <visible>true</visible>
+ <action>
+  <name>click</name>
+  <button>0</button>
+  <repeatable>false</repeatable>
+  <binding>
+   <command>nasal</command>
+   <script>scenery.TABVEE.hangar[0].door[1].toggle();</script>
+  </binding>
+ </action>
+</animation>
+ 
+ <!-- LIGHTS -->
+ <animation>
+		<type>material</type>
+		<object-name>lightplane-in</object-name>
+	    <object-name>lightplane-out</object-name>
+		<object-name>light</object-name>
+	    <object-name>floodlight</object-name>
+		<transparency>
+			<alpha-prop>environment/visibility-m</alpha-prop>
+			<factor>1</factor>
+			<offset>0</offset>
+			</transparency>
+		<threshold>0.001</threshold>
+	</animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>lightplane-in</object-name>
+	<object-name>lightplane-out</object-name>
+	<object-name>light</object-name>
+	<object-name>floodlight</object-name>
+    <condition>
+      <equals>
+        <property>controls/switches/lights</property>
+        <value> 0 </value>
+      </equals>
+    </condition>
+  </animation> 
+  
+  <animation>
+    <type>pick</type>
+    <visible>true</visible>
+	<object-name>light</object-name>
+	<object-name>floodlight</object-name>
+    <object-name>pole</object-name>
+	<object-name>lightfitting</object-name>
+    <action>
+      <button>0</button>
+      <repeatable>false</repeatable>
+      <binding>
+        <command>property-toggle</command>
+        <property>controls/switches/lights</property>
+      </binding>
+    </action>
+  </animation>
+  
+  <animation>
+    <type>select</type>
+    <object-name>lightplane-in</object-name>
+	<object-name>lightplane-out</object-name>
+	<object-name>light</object-name>
+	<object-name>floodlight</object-name>
+    <condition>
+      <not><property>/sim/rendering/rembrandt/enabled</property></not>
+    </condition>
+  </animation>
+  
+  <!--  enable-hot  -->
+ <animation>
+    <object-name>doorright</object-name>
+    <object-name>doorleft</object-name>
+	<object-name>lightplane-in</object-name>
+	<object-name>lightplane-out</object-name>
+	<object-name>light</object-name>
+	<object-name>floodlight</object-name>
+	<object-name>lightfitting</object-name>
+	<object-name>pole</object-name>
+	<object-name>pole2</object-name>
+	<object-name>pipe</object-name>
+	<object-name>hanger</object-name>
+	<object-name>hanger2</object-name>
+	<enable-hot type="bool">false</enable-hot>
+  </animation>
+  
+  <!-- RANGE -->
+ <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+ </animation>
+ 
+</PropertyList>
