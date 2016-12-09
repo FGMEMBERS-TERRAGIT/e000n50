@@ -11,3 +11,4 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 0.7677167 50.9358167 2.41
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 0.77035 50.9331833 2.66 87.84
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 0.7713667 50.9319333 3.28 336.55
 OBJECT_STATIC Dungeness_Lighthouse.xml 0.97610123 50.9133288 3.09 0
+OBJECT_STATIC Sound_Mirrors.ac 0.95148849 50.9559284 0.18 154

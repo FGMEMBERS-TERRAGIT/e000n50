@@ -13,7 +13,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 9.918787 53.510612 0.42 180
 OBJECT_SHARED Models/Airport/ils.xml 9.825036 53.531225 1.6 307.95
 OBJECT_SHARED Models/Airport/ils.xml 9.840642 53.536753 3.26 132.33
 OBJECT_SHARED Models/Airport/ils.xml 9.972767 53.620939 10.72 309.91
-OBJECT_SHARED Models/Communications/radio-medium.xml 9.7819444 53.5672222 -53.43 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.8372222 53.5383333 -193.95 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.8375 53.5380556 -194.93 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.8388889 53.5388889 -193.86 180
@@ -351,6 +350,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.7608673 53.5477143 0 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.77888 53.545071 0 50.3
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 9.7936373 53.5456331 0 137.4
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 9.999814 53.5627717 1.99 214.85
+OBJECT_SHARED Models/Maritime/Misc/generic-lighthouse.ac 9.751514 53.563983 10.11 0
+OBJECT_SHARED Models/Misc/Steiger_Wheel.xml 9.998621 53.543202 3.33 345
 OBJECT_STATIC HeinrichHertzTurm.ac 9.9755556 53.5633333 24.11 0
 OBJECT_STATIC Koehlbrandbruecke.xml 9.938679 53.521737 0 79.5
 OBJECT_STATIC AOLArena.xml 9.898703 53.586939 30.16 83

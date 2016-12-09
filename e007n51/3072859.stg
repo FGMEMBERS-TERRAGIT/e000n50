@@ -12,6 +12,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 7.8211111 51.4455556 152.67
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.9391667 51.4402778 172.27 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.8633333 51.4972222 177.14 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.9616667 51.4525 169 180
+OBJECT_SHARED Models/Airport/SignalsSquare.ac 7.8997672 51.4834963 235.98 221.7
 OBJECT_SHARED Models/Misc/generic_church_03.ac 7.7961111 51.4383333 152.82 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8139826 51.4238817 148.97 318.32
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8141321 51.4237987 149.22 318.32
@@ -25,3 +26,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8298883 51.4068623 159.61 288.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8329439 51.4039443 160.33 302.85
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8359566 51.4009993 169.3 318.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.8389263 51.4001425 173.5 335.18
+OBJECT_SHARED Models/StreetFurniture/park-lined.ac 7.9007037 51.4835502 234.02 40

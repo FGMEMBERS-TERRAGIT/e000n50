@@ -148,13 +148,11 @@ OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395412 50.947817 16.44 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 16.44 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395428 50.947634 16.44 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 16.4 0
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 4.490278 50.912474 26.12 300
 OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39375117 50.94517709 17.41 100
 OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39425215 50.94612442 16.96 316
 OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.3944102 50.94723494 16.61 270.4
 OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.05 300
 OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39441427 50.94777242 16.45 271.2
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.487607 50.899405 39.54 25
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.489128 50.901233 37.82 220
 OBJECT_SHARED Models/Aircraft/D112.xml 4.39117292 50.94361761 18.04 99.6
 OBJECT_SHARED Models/Aircraft/D112.xml 4.39436997 50.94603016 16.95 259.6
@@ -370,11 +368,6 @@ OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39599954 50.948660
 OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39603523 50.94865926 16.24 268
 OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39607364 50.94865809 16.21 268
 OBJECT_SHARED Models/StreetFurniture/concrete_bloc_white.ac 4.39610501 50.94865708 16.2 268
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.458961 50.903145 32.26 25
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.461246 50.903758 32.19 25
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.46838617 50.90612212 31.12 3
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.473844 50.898118 37.19 300
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.478746323 50.89194549 42.25 200
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48059797 50.90250893 35.12 200
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.481970491 50.902982953 34.86 200
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48262733 50.90191816 35.97 30
@@ -387,7 +380,6 @@ OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.486526325 50.900546168 
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48917927 50.903664308 35.14 30
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48947068 50.905180232 33.42 200
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.489741399 50.90012902 39.13 30
-OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490014133 50.897742225 41.73 30
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490429293 50.904034444 34.86 30
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490802488 50.900450373 39 30
 OBJECT_STATIC Atomium.xml 4.341111 50.894722 58.52 0

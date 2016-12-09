@@ -17,14 +17,13 @@ OBJECT_SHARED Models/Airport/marker.ac 6.786811 51.301936 38.01 180
 OBJECT_SHARED Models/Airport/marker.ac 6.793939 51.299594 42.68 180
 OBJECT_SHARED Models/Airport/marker.ac 6.8918 51.347061 107.97 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 6.7869444 51.2611111 -382.9 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 6.7805556 51.2541667 -384.09 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 6.9536111 51.2611111 -236.06 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.7813889 51.2527778 -384.63 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8144444 51.2608333 -397.61 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.7830556 51.3177778 29.85 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.8208333 51.3419444 43.15 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.8547222 51.3658333 27.93 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 6.9352778 51.3644444 58.43 180
+OBJECT_SHARED Models/Communications/base_clape_04.xml 6.9536111 51.2611111 172.94 180
 OBJECT_SHARED Models/Airport/localizer.xml 6.784106 51.30055 38.55 142.78
 OBJECT_SHARED Models/Airport/localizer.xml 6.788731 51.297111 39.05 142.72
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 6.76250154 51.27967059 35.8 12
@@ -423,5 +422,6 @@ OBJECT_SHARED Models/Airport/Jetway/generic.xml 6.76704513 51.28228361 36.22 160
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 6.755156 51.250596 27.43 183.8
 OBJECT_SHARED Models/Sport/TennisCourt.ac 6.95308934 51.36247583 48.93 288
 OBJECT_SHARED Models/Sport/TennisCourt.ac 6.95332179 51.3626738 49.49 108
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 6.783006 51.253589 -383.41 180
 OBJECT_STATIC EDDL_Terminal.ac 6.76794751 51.27820959 37.75 153
 OBJECT_STATIC EDDL_Tower.ac 6.7706 51.2787 39.77 198

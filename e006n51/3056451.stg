@@ -2,7 +2,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 6.9738889 51.0733333 54.76 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.8716667 51.1138889 -43.72 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.9372222 51.0158333 -56.71 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.9911111 51.0294444 -87.5 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 6.9897222 51.0744444 -347.23 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8305556 51.0830556 -343.16 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8325 51.0719444 -323.54 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8333333 51.0719444 -322.87 180
@@ -52,6 +51,7 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.974450486 51.02880363
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.974681345 51.028716519 -36.75 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.974735794 51.027682784 -36.73 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.974954178 51.028632042 -36.95 0
+OBJECT_SHARED Models/Communications/Fernsehturm-Stade.xml 6.9897222 51.0744444 62.77 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 6.846567327 51.068899516 -35.35 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 6.84731447 51.069031396 -36.16 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.7505201 51.0059889 75.34 7.11
