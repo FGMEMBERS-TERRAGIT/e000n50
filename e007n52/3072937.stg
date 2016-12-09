@@ -20,3 +20,10 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac 7.3058333 52.7136111 -4
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac 7.4869444 52.6777778 -414.14 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.3655556 52.7069444 -393.97 180
 OBJECT_SHARED Models/Misc/generic_church_03.ac 7.4847222 52.6725 20.62 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 7.33128 52.72505 18.61 321.73
+OBJECT_SHARED Models/lib/SmHangar.ac 7.33166 52.72509 18.33 49.4
+OBJECT_SHARED Models/lib/LongRow.ac 7.33153 52.72636 20.58 128.66
+# END dsf2stg

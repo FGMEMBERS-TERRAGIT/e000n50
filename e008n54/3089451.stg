@@ -28,3 +28,9 @@ OBJECT_SHARED Models/Power/windturbine.xml 8.9958333 54.6416667 15.83 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.9963889 54.6447222 15.02 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.9586111 54.7397222 -81.16 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 8.9447222 54.6441667 -345.38 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 8.93656 54.63138 2.86 139.92
+OBJECT_SHARED Models/lib/SmHangar.ac 8.93668 54.63146 3.11 139.92
+# END dsf2stg

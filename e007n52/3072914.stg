@@ -64,3 +64,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.628081 52.32777 49.48
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.628786 52.328453 50.09 334.53
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.605337 52.284889 51.9 73.81
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.60542 52.285496 52.54 160.24
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.50005 52.27621 40.70 0
+# END dsf2stg

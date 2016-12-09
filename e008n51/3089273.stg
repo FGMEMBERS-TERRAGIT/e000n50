@@ -196,3 +196,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4980982 51.9389818 112.97 338.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4986992 51.923068 93.11 165.67
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4989895 51.923326 93.21 165.22
 OBJECT_SHARED Models/Military/AmmoBunker.ac 8.2888 51.925 63.03 40
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31725 51.92488 70.69 18.78
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31654 51.92566 70.24 27.01
+OBJECT_SHARED Models/lib/MedHangar.ac 8.30870 51.93021 67.97 64.47
+OBJECT_SHARED Models/lib/MedHangar.ac 8.30987 51.92970 68.27 44.24
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31053 51.92918 68.48 44.26
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31161 51.92867 68.77 42.93
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31355 51.92764 69.30 49.09
+OBJECT_SHARED Models/lib/MedHangar.ac 8.31441 51.92713 69.54 45.81
+# END dsf2stg
