@@ -4,3 +4,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 1.1394444 52.5183333 -283.6
 OBJECT_SHARED Models/Communications/radio-tall.xml 1.1412126 52.5179798 -387.54 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 1.235436 52.5270771 28.32 232.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 1.2358382 52.5274004 29.25 232.88
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 1.05416 52.50213 54.81 23.86
+# END dsf2stg

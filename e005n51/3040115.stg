@@ -19,3 +19,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.959606 51.856092 7 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.964975 51.855153 9.67 39.57
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.971492 51.855711 9.19 217.33
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.976697 51.857706 7.13 103.14
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 5.88338 51.78305 35.81 97.5394
+# END dsf2stg

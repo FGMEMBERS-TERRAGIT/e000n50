@@ -20,3 +20,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.9406443 51.2464183 79.24 359.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.9506126 51.247451 82.23 9.09
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.9708624 51.2494049 59.49 5.51
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.9832888 51.24971 42.18 2.94
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 0.83077 51.20837 184.96 142.88
+OBJECT_SHARED Models/lib/lamp10m.xml 0.83099 51.20884 184.00 107.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.83109 51.20654 187.74 6.94
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.83065 51.20756 186.48 286.93
+# END dsf2stg
