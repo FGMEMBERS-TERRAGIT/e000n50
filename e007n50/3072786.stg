@@ -1,9 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-tall.xml 7.5205556 50.2602778 83.01 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 7.5680556 50.36 -344.02 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 7.5694444 50.3091667 142.66 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.6505556 50.3147222 -356.94 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.597298 50.361977 76.33 105
 OBJECT_SHARED Models/Misc/generic_castle.xml 7.614371 50.364804 157.91 352
+OBJECT_SHARED Models/Communications/Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.xml 7.5694444 50.3091667 384.66 180
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 7.6521666 50.262499 73.78 112.88
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.5064664 50.3075724 59.78 62.27
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.5104152 50.3079197 62.29 250.8

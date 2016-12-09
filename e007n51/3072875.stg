@@ -15,7 +15,9 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac 7.9658333 51.7461111 -3
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.7627778 51.6863889 -306.67 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.8230556 51.7075 -293.77 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.8766667 51.7336111 -342.95 180
-OBJECT_SHARED Models/Power/generic_power_plant.xml 7.9741667 51.6980556 68.05 202.14
+OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 7.8219553 51.6906792 57.18 0
+OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 7.8224171 51.6908338 56.93 0
+OBJECT_SHARED Models/Power/generic_power_plant.xml 7.97175652 51.67638693 67.43 202.14
 OBJECT_SHARED Models/Misc/generic_church_03.ac 7.8152778 51.6797222 65.45 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.752816 51.7158961 67.54 213.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7566275 51.717662 66.11 216.78
@@ -186,3 +188,5 @@ OBJECT_SHARED Models/lib/lamp10m.xml 7.81305 51.68976 59.62 115.16
 OBJECT_SHARED Models/lib/lamp10m.xml 7.81292 51.68993 59.80 115.51
 OBJECT_SHARED Models/lib/lamp10m.xml 7.81278 51.69009 60.09 115.71
 # END dsf2stg
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 7.822513 51.6904116 -22.32 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 7.8228795 51.6905206 -22.29 0

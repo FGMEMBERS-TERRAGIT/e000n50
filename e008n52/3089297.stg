@@ -4,7 +4,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 8.4105556 52.3444444 46.93 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4111111 52.3513889 44.84 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4125 52.32 52.4 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4238889 52.355 48.16 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 8.3152778 52.3597222 -368.82 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 8.3016667 52.3355556 28.02 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.295783 52.357729 43.56 289.23
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.296416 52.35786 43.32 289.2
@@ -41,6 +40,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4876049 52.3225901 51.12 177.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.491124 52.3225219 50.71 177.94
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4947203 52.3224335 50.17 177.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4983767 52.3223436 54.03 177.58
+OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac 8.314483 52.359713 54.89 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 8.251958 52.350677 50.9 12.19
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 8.25263 52.350449 51.09 112.86
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 8.253304 52.350212 51.24 80.88

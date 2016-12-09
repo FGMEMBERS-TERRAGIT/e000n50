@@ -1,10 +1,7 @@
 OBJECT_SHARED Models/Power/windturbine.xml 6.9372222 51.2313889 139.2 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.8 51.2494444 -35.23 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 6.7794444 51.2463889 -366.11 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 6.8391667 51.1788889 -302.67 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 6.8725 51.2361111 -315.21 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 6.7597222 51.2269444 -299.3 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 6.8391667 51.1936111 -370.16 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.7780556 51.1963889 -380.02 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8233333 51.2247222 -352.22 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8408333 51.1794444 -360.35 180
@@ -27,8 +24,10 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.842204194 51.16426596
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.842204194 51.164492327 -39.76 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.842653319 51.164502855 -40.19 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 6.842657517 51.164300179 -40.56 0
+OBJECT_SHARED Models/Communications/Fernsehturm-Stade.xml 6.8725 51.2361111 109.79 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 6.840839129 51.180808053 -31.42 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 6.840910959 51.18111495 -31.54 0
+OBJECT_SHARED Models/Residential/grdimmeuble.xml 6.8391667 51.1936111 41.84 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.7519291 51.1932931 35.29 340.57
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.7520145 51.1557311 40.01 126.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.7561133 51.1923682 34.18 340.57
@@ -296,6 +295,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9610537 51.1636947 66.23 46.73
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9612915 51.1672459 67.42 234.24
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9629897 51.169966 69.92 248.62
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9636444 51.1654837 66.28 47.76
+OBJECT_SHARED Models/Power/Poolbeg_Turbosteam.xml 6.8391667 51.1788889 47.33 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 6.7510291 51.1820729 30.01 29.24
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 6.7519685 51.2201489 29.31 166.03
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 6.7545009 51.2191365 27.13 355.54

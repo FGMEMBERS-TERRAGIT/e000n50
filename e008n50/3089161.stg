@@ -1,7 +1,6 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.45923 50.23199 782.33 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.4961111 50.2416667 595.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.4966667 50.2411111 587.5 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 8.3888889 50.1744444 107.56 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.2971168 50.2036791 359.78 113.28
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.2992643 50.2004845 369.93 112.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.3012439 50.1974433 383.86 113.09
@@ -161,6 +160,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4686006 50.1320865 180.83 108.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4696662 50.1300119 170.37 108.62
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4709096 50.1277003 165.18 108.55
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.472012 50.1255352 160.6 108.28
+OBJECT_SHARED Models/Communications/fernmeldeturm_waldenbuch.xml 8.388802 50.174514 462.93 180
 OBJECT_STATIC feldberg.ac 8.4565 50.2313 871.44 110
 # dsf2stg
 # do not edit below this line
