@@ -139,3 +139,13 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 5.099306 53.310881 -0.0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 5.182222 53.289757 -0.13 112.97
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 5.182664 53.263017 -0.1 12.46
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 5.195483 53.342567 -0.02 303.46
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac 5.08559 53.29717 2.25 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.08519 53.29705 2.15 179.25
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.08514 53.29705 2.16 180.6
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08510 53.29678 1.50 180
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08516 53.29678 1.49 180
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 5.08487 53.29677 1.56 0
+# END dsf2stg

@@ -8,3 +8,8 @@ OBJECT_SHARED Models/Power/windturbine.xml 7.8495508 55.5037065 -0.39 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.8584147 55.5037895 -0.34 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.8672787 55.5038718 -0.23 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.8761428 55.5039534 -0.13 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/OilRig.ac 7.87502 55.50877 -0.19 95
+# END dsf2stg
