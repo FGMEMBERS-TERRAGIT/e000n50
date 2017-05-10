@@ -3,7 +3,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 7.8197222 51.1816667 499.7 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.8344444 51.1852778 478.26 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.8388889 51.1861111 479.37 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.9897222 51.2158333 460.36 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.892039 51.170511 541.49 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 7.7658333 51.2416667 -118.75 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 7.7733333 51.1466667 322 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 7.7566667 51.1480556 293.78 180
@@ -21,3 +20,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.913999 51.1367648 300.45 154.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.9227537 51.1343951 291.41 148.03
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.9290358 51.1310161 265.18 139.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.9323668 51.1292244 270.56 145.34
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.892039 51.170511 541.49 180

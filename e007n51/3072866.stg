@@ -17,8 +17,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.5041667 51.5463889 -277
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.5155556 51.6247222 -368.22 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.5294444 51.5719444 -219.06 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.5841667 51.6194444 -351.93 180
-OBJECT_SHARED Models/Airport/localizer.xml 7.598775 51.513589 129.5 330.49
-OBJECT_SHARED Models/Airport/localizer.xml 7.629056 51.524247 113.74 150.52
+OBJECT_SHARED Models/Airport/localizer.xml 7.598775 51.513589 129.5 119.6
+OBJECT_SHARED Models/Airport/localizer.xml 7.629056 51.524247 113.74 299.59
 OBJECT_SHARED Models/Commercial/tecalemit.xml 7.59831182 51.50954066 142.3 304
 OBJECT_SHARED Models/Commercial/tecalemit.xml 7.60514976 51.51134454 137.44 304
 OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac 7.61839589 51.50478754 121.74 296

@@ -1,6 +1,5 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.6766667 50.6041667 355.6 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.7219444 50.5338889 213.74 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 9.572169 50.592456 326.84 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 9.7266667 50.5294444 -78.7 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.6630556 50.555 -184.27 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.6739577 50.5255213 254.38 256.19
@@ -34,3 +33,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.690942 50.544793 281.78 198.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.699989 50.5857073 361.11 139.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.7308215 50.5514069 336.79 14.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.7321733 50.5516277 338.15 14.42
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 9.572169 50.592456 326.84 180

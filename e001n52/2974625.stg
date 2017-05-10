@@ -42,3 +42,4 @@ OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 1.368141 52.616727 5.57 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac 1.364206 52.617945 -78.1 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 1.363885 52.618269 -83.26 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 1.364206 52.617945 -83.1 180
+OBJECT_STATIC carrowroad.ac 1.309183 52.622044 6.04 48

@@ -7,9 +7,9 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 4.784944 52.306553 -3.81 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.791992 52.319739 -6.31 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.798664 52.313311 -3.24 180
 OBJECT_SHARED Models/Airport/marker.ac 4.902408 52.321942 -2.14 180
-OBJECT_SHARED Models/Airport/localizer.xml 4.780372 52.323503 -5.08 93.24
-OBJECT_SHARED Models/Airport/localizer.xml 4.781164 52.29875 -3.6 311.18
-OBJECT_SHARED Models/Airport/localizer.xml 4.784194 52.307142 -3.83 147.94
+OBJECT_SHARED Models/Airport/localizer.xml 4.780372 52.323503 -5.08 357
+OBJECT_SHARED Models/Airport/localizer.xml 4.781164 52.29875 -3.6 139
+OBJECT_SHARED Models/Airport/localizer.xml 4.784194 52.307142 -3.83 302
 OBJECT_SHARED Models/Airport/radar.xml 4.78417 52.31155 -3.8 19
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.9655993 52.3332574 0.27 224.61
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.9662259 52.3336351 -0.47 227.26
@@ -569,6 +569,7 @@ OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.75691452 52.311868 -
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.75696252 52.311295 -4.3 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.7570652 52.30295 -4.1 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.7571752 52.30118 -4.05 0
+OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.757611 52.31387 -4.34 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.7581852 52.30338 -4.1 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.7582852 52.30161 -4.05 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac 4.7593252 52.29336 -3.7 0

@@ -7,7 +7,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 8.626341 53.863852 -119.61 
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.6483333 53.8336111 -48.91 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 8.7066667 53.8691667 -80.53 180
 OBJECT_SHARED Models/Airport/marker.ac 8.691167 53.771667 1.03 180
-OBJECT_SHARED Models/Airport/localizer.xml 8.633667 53.764667 14.32 348.37
+OBJECT_SHARED Models/Airport/localizer.xml 8.633667 53.764667 14.32 100
 OBJECT_SHARED Models/Communications/Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.xml 8.6775 53.8563889 0.95 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.6944686 53.8423198 -1.05 352.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.6989959 53.8419483 -0.37 17.47

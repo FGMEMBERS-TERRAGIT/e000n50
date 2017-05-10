@@ -20,7 +20,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 9.1388222 55.191963 34.67 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.143615 55.1933862 35.83 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.1633691 55.249228 43.2 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 9.214058 55.228939 37.04 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.237339 55.225642 35.33 15.45
+OBJECT_SHARED Models/Airport/localizer.xml 9.237339 55.225642 35.33 74.23
 OBJECT_SHARED Models/Military/shelter.ac 9.243032 55.221022 36.68 180
 OBJECT_SHARED Models/Military/shelter.ac 9.245279 55.219679 37.16 180
 OBJECT_SHARED Models/Military/shelter.ac 9.246293 55.22783 37.41 180

@@ -9,7 +9,7 @@ OBJECT_SHARED Models/Airport/tacan.xml 9.444833 52.460333 51.27 180
 OBJECT_SHARED Models/Airport/marker.ac 9.454658 52.459267 45.7 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 9.4561111 52.4266667 -376.7 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.3691667 52.4191667 -374 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.410333 52.455833 49.79 351.82
+OBJECT_SHARED Models/Airport/localizer.xml 9.410333 52.455833 49.79 98.06
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.251234 52.387866 48.47 310.82
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.254726 52.38542 48.77 310.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.258605 52.38267 49.97 311.16

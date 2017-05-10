@@ -10,7 +10,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 7.6297222 51.7636111 68.56 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.6302778 51.7647222 68.31 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.6311111 51.7658333 68.07 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.5391667 51.7552778 -34.63 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.708294 51.856867 57.29 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.6197222 51.7894444 67.01 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.6575886 51.8741888 62.77 123.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.6602852 51.8716623 66.98 131.07
@@ -74,6 +73,7 @@ OBJECT_SHARED Models/Agriculture/farmhouse2.ac 7.7448783 51.7678097 70.99 84
 OBJECT_SHARED Models/Agriculture/farmhouse2.ac 7.7450675 51.7678292 71.02 264.2
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 7.7448161 51.7674181 71.17 272.2
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.7446417 51.7678979 70.87 89.9
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.708294 51.856867 57.29 180
 OBJECT_SHARED Models/Trees/line_trees.xml 7.7452881 51.7691462 70.2 89.9
 OBJECT_SHARED Models/Aircraft/virus-sw.ac 7.7456792 51.767732 71.23 264.2
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.744646 51.7679191 70.85 89.9

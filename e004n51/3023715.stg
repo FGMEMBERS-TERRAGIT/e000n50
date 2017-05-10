@@ -3,7 +3,7 @@ OBJECT_SHARED Models/Airport/tacan.xml 4.933611 51.566111 13 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.93361 51.566116 13 180
 OBJECT_SHARED Models/Military/t2.ac 4.93169756 51.57116939 13.41 72
 OBJECT_SHARED Models/Communications/cell-monopole3-75m.xml 4.92392134 51.57904185 15.34 0
-OBJECT_SHARED Models/Airport/localizer.xml 4.909722 51.569722 10.24 9.93
+OBJECT_SHARED Models/Airport/localizer.xml 4.909722 51.569722 10.24 79.5
 OBJECT_SHARED Models/Military/shelter.ac 4.92774562 51.55879025 17.76 300
 OBJECT_SHARED Models/Military/shelter.ac 4.9286458 51.55821045 16.71 340
 OBJECT_SHARED Models/Military/shelter.ac 4.94343885 51.56917746 10.22 264

@@ -9,7 +9,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 8.4866667 52.1913889 64.38 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4888889 52.1908333 64.45 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4908333 52.1905556 63.31 180
 OBJECT_SHARED Models/Airport/tacan.xml 8.2855 52.201667 100.33 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 8.285519 52.200136 108.29 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.3363889 52.2038889 -331.82 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.3997222 52.2366667 -313.4 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.252379 52.24265 75.28 157.78
@@ -82,3 +81,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4848589 52.1551916 89.8 176.23
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4898199 52.1549885 87.45 176.18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4945063 52.1547966 85 176.46
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4985832 52.1546544 88.99 206.57
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 8.285519 52.200136 108.29 180

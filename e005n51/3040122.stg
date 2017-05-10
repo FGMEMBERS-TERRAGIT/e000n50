@@ -24,6 +24,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.6640566 51.9364103 5.07 306.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.6668461 51.9341348 6.21 305.53
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.6695068 51.9317004 6.65 300.66
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.671438 51.9293982 7.05 297.35
+OBJECT_SHARED Models/Residential/tower-hexa.ac 5.647418 51.960981 7.49 0
+OBJECT_SHARED Models/Residential/tower-hexa.ac 5.652895 51.966164 9.44 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.502075 51.890117 4 200.47
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.509211 51.890761 4 283.09
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.51625 51.891733 4.19 18.55

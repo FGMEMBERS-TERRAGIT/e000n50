@@ -5,7 +5,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 5.13036 52.36834 -3.11 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.13308 52.37151 -4.81 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.13587 52.37481 -2.98 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.13901 52.37134 -4.51 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 5.092161 52.334761 -3.18 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.001561 52.3438041 0 138.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.0028069 52.3412446 0.98 139.11
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.0062745 52.339383 -0.91 138.92
@@ -209,6 +208,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 5.249122 52.321494 -3.34 165.7
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 5.249844 52.316892 -3.18 240.13
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 5.146853 52.318219 -3.02 107.51
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 5.222675 52.327031 -3.3 86.6
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 5.092161 52.334761 -3.18 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 5.01406 52.37181 -5.59 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.005442 52.369319 -2.71 301.07
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 5.012922 52.370342 -3.42 59.89

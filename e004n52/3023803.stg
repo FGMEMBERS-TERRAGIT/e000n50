@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 4.782 52.94129 0.68 180
 OBJECT_SHARED Models/Power/windturbine.xml 4.97323 52.87671 -2.91 180
 OBJECT_SHARED Models/Airport/ils.xml 4.779781 52.924656 0.04 144.67
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.765833 52.906944 -0.35 180
-OBJECT_SHARED Models/Airport/localizer.xml 4.774633 52.918094 -0.95 303.84
+OBJECT_SHARED Models/Airport/localizer.xml 4.774633 52.918094 -0.95 146
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 4.9276667 52.9798333 -0.24 269.64
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 4.9325 52.9696667 -0.67 115.7
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 4.9286667 52.9846667 -0.01 244.03
