@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 9.01859 55.736163 48.44 0
 OBJECT_SHARED Models/Power/windturbine.xml 9.0053752 55.7034753 62.01 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.0206352 55.6917567 61.81 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.0236367 55.6913069 62.67 180
@@ -11,8 +12,8 @@ OBJECT_SHARED Models/Airport/ils.xml 9.174253 55.739617 71.87 92.3
 OBJECT_SHARED Models/Communications/vordme_1.xml 9.174214 55.739667 71.87 180
 OBJECT_SHARED Models/Airport/marker.ac 9.107189 55.738931 63.8 180
 OBJECT_SHARED Models/Airport/marker.ac 9.202606 55.741872 83.61 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.128342 55.739586 64.26 356.82
-OBJECT_SHARED Models/Airport/localizer.xml 9.185847 55.741367 76.44 176.88
+OBJECT_SHARED Models/Airport/localizer.xml 9.128342 55.739586 64.26 92.3
+OBJECT_SHARED Models/Airport/localizer.xml 9.185847 55.741367 76.44 272.28
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml 9.14416 55.745358 69.51 0
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml 9.144766 55.745391 69.64 0
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml 9.145491 55.745437 69.81 0

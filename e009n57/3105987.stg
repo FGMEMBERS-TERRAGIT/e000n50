@@ -20,8 +20,8 @@ OBJECT_SHARED Models/Military/t2.ac 9.87186 57.086341 2.37 180
 OBJECT_SHARED Models/Military/t2.ac 9.872621 57.084662 2.33 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 9.91176 57.042002 -434.01 180
 OBJECT_SHARED Models/Military/RAFTower.xml 9.864964 57.090191 2.41 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.827394 57.093325 0.89 353.22
-OBJECT_SHARED Models/Airport/localizer.xml 9.883722 57.09695 2.9 173.27
+OBJECT_SHARED Models/Airport/localizer.xml 9.827394 57.093325 0.89 96.08
+OBJECT_SHARED Models/Airport/localizer.xml 9.883722 57.09695 2.9 276.06
 OBJECT_SHARED Models/Military/shelter.ac 9.868507 57.092435 2.84 180
 OBJECT_SHARED Models/Military/shelter.ac 9.872085 57.092567 2.9 180
 OBJECT_SHARED Models/Military/shelter.ac 9.873233 57.091949 2.84 180

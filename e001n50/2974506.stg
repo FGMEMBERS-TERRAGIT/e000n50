@@ -8,3 +8,4 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.5625863 50.6984584 37.07
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.5676115 50.7406293 -2.86 0
 OBJECT_SHARED Models/Misc/NDBoulogne.ac 1.6146 50.7261 59.47 30
 OBJECT_SHARED Models/Misc/ChateauBoulogne.ac 1.617 50.7257 63.18 90
+OBJECT_STATIC Echinghen.ac 1.63537 50.69776 7.55 114.9

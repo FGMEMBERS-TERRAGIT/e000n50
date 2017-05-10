@@ -2,7 +2,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 6.2952778 51.2441667 57.61 180
 OBJECT_SHARED Models/Power/windturbine.xml 6.3366667 51.2208333 69.53 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.3925 51.2422222 -78.89 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 6.3930556 51.18 -33.11 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 6.490244 51.2373 35.42 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 6.491969 51.234908 35.6 180
 OBJECT_SHARED Models/Airport/marker.ac 6.487044 51.239106 37.87 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 6.4441667 51.1977778 -369.89 180
@@ -322,7 +321,7 @@ OBJECT_SHARED Models/Airport/hangar5.xml 6.49698709 51.23162947 36.1 233.6
 OBJECT_SHARED Models/Industrial/Schenker_storehouse66x30.xml 6.49089184 51.23437187 36.61 332
 OBJECT_SHARED Models/Industrial/generic_tank_020m_brown.ac 6.4665629 51.24063482 -46.86 0
 OBJECT_SHARED Models/Industrial/generic_tank_020m_brown.ac 6.46657803 51.24103326 -47.22 0
-OBJECT_SHARED Models/Communications/VOR-DME_3.ac 6.49038368 51.23739801 35.42 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 6.490244 51.2373 35.42 180
 OBJECT_SHARED Models/Trees/laurier.xml 6.49904225 51.22887653 38.37 0
 OBJECT_SHARED Models/Aircraft/Cessna172_yellow.xml 6.49866821 51.2304685 36.66 324
 OBJECT_SHARED Models/Trees/line_trees.xml 6.49631693 51.22782642 37.85 280

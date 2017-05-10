@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/Communications/vordme_1.xml 4.138889 50.907778 69.61 180
+OBJECT_SHARED Models/Airport/ndb.ac 4.028882 50.880267 27.27 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.121686 50.9817335 10.64 47.02
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.1220379 50.9819712 10.19 43.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.1241579 50.9830843 8.64 40.68
@@ -173,3 +173,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2468368 50.9705706 17.18 257.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2473479 50.8994984 60.87 23.63
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2480385 50.9737107 16.71 256.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2491457 50.9766669 15.87 256.56
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 4.138889 50.907778 69.61 180

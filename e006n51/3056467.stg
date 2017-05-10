@@ -24,8 +24,8 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.8208333 51.3419444 43.15 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.8547222 51.3658333 27.93 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 6.9352778 51.3644444 58.43 180
 OBJECT_SHARED Models/Communications/base_clape_04.xml 6.9536111 51.2611111 172.94 180
-OBJECT_SHARED Models/Airport/localizer.xml 6.784106 51.30055 38.55 142.78
-OBJECT_SHARED Models/Airport/localizer.xml 6.788731 51.297111 39.05 142.72
+OBJECT_SHARED Models/Airport/localizer.xml 6.784106 51.30055 38.55 306.85
+OBJECT_SHARED Models/Airport/localizer.xml 6.788731 51.297111 39.05 306.85
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 6.76250154 51.27967059 35.8 12
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 6.76264918 51.27987268 35.77 332
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 6.76272139 51.27958572 35.88 63

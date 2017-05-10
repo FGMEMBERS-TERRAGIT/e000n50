@@ -7,6 +7,7 @@ OBJECT_SHARED Models/Power/coolingtower.xml 7.19079 51.55254 49.55 0
 OBJECT_SHARED Models/Airport/ndb.ac 7.023011 51.585803 75.28 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.01224031 51.60603909 153.6 0
 OBJECT_SHARED Models/Power/windturbine.xml 7.01428654 51.60511562 151.27 0
+OBJECT_SHARED Models/Power/windturbine.xml 7.12293 51.62358 83.93 180
 OBJECT_SHARED Models/Power/windturbine.xml 7.1547222 51.5630556 78.41 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac 7.1825 51.5272222 -381.18 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.0080556 51.5972222 -320.96 180

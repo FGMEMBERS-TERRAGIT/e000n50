@@ -16,6 +16,7 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 6.1197222 50.8322222 -
 OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac 6.11 50.7769444 -263.28 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.0697222 50.7908333 -235.38 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.2216667 50.7897222 -229.7 180
+OBJECT_SHARED Models/Misc/generic_church_02.ac 6.082864 50.773583 173.2 315
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.0616086 50.8267677 162.83 268.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.0629626 50.8238674 166.42 286.04
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.063007 50.8293869 162.9 251.35
@@ -334,6 +335,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.2421573 50.8312334 168.62 176.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.2462519 50.8295227 170.13 162.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.2463695 50.8298178 169.31 162.03
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.2471812 50.8005044 193.19 31.13
+OBJECT_SHARED Models/Misc/generic_cathedral.xml 6.083883 50.774722 173.16 270
 OBJECT_STATIC baudouinturm.ac 6.0216655 50.7540289 331.06 0
 OBJECT_STATIC belvedere-ac.ac 6.08061238 50.7863793 262.09 0
 # dsf2stg

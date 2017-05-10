@@ -71,7 +71,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 5.74334 52.45974 -3.34 180
 OBJECT_SHARED Models/Power/windturbine.xml 5.74705 52.46134 -3.79 180
 OBJECT_SHARED Models/Airport/ils.xml 5.524004 52.45771 -4.69 132.5
 OBJECT_SHARED Models/Communications/vordme_1.xml 5.507725 52.450036 -6.11 180
-OBJECT_SHARED Models/Airport/localizer.xml 5.50829 52.44964 -6.18 317.37
+OBJECT_SHARED Models/Airport/localizer.xml 5.505652 52.448163 -6 132.5
 OBJECT_SHARED Models/Airport/SignalsSquare.ac 5.52339 52.45628 -4.51 222
 OBJECT_SHARED Models/Airport/LightPole1_RedWhite.xml 5.52452 52.45595 -4.28 312
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 5.628536 52.376133 -3.16 332.99

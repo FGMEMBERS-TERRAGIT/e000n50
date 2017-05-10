@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Power/windturbine.xml 9.1905556 50.4116667 326.46 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 9.249164 50.411947 471.43 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0000813 50.3925569 189.16 88.35
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0002206 50.3955432 172.64 88.21
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0003799 50.3986393 144.92 88.27
@@ -67,3 +66,4 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.21911 50.49963 653.38 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.21915 50.49951 653.13 0
 OBJECT_SHARED Models/lib/lamp10m.xml 9.21909 50.49958 653.49 5.91
 # END dsf2stg
+OBJECT_SHARED Models/Communications/vortac.ac 9.249164 50.411947 471.43 180

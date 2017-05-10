@@ -44,8 +44,8 @@ OBJECT_SHARED Models/Airport/marker.ac 8.591922 51.604003 212.85 180
 OBJECT_SHARED Models/Airport/marker.ac 8.639444 51.623611 204.43 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.5013889 51.6158333 -265.7 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.5136111 51.6241667 -281.61 180
-OBJECT_SHARED Models/Airport/localizer.xml 8.599517 51.607236 212.16 326.8
-OBJECT_SHARED Models/Airport/localizer.xml 8.633775 51.6212 206.82 147.13
+OBJECT_SHARED Models/Airport/localizer.xml 8.599517 51.607236 212.16 123.29
+OBJECT_SHARED Models/Airport/localizer.xml 8.633775 51.6212 206.82 303.28
 OBJECT_SHARED Models/Misc/generic_castle.xml 8.651226 51.607039 192.47 0
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 8.6187797 51.6107221 218.61 252
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 8.619501 51.6110164 218.61 252
