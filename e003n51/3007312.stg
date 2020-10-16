@@ -54,3 +54,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 3.2180167 51.3474556 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 3.1175 51.3736667 -5.36 29.65
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 3.0300167 51.28725 -0.25 304.66
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 3.06578 51.30093 -0.13 180.4
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.1838889 51.3197222 0.1 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.1869444 51.3119444 -2.14 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.2277778 51.3219444 -1.15 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.2302778 51.3191667 -1.72 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.2405556 51.3008333 -1.52 0

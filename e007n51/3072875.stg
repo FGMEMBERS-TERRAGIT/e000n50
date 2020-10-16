@@ -18,7 +18,7 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.8766667 51.7336111 -342
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 7.8219553 51.6906792 57.18 0
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 7.8224171 51.6908338 56.93 0
 OBJECT_SHARED Models/Power/generic_power_plant.xml 7.97175652 51.67638693 67.43 202.14
-OBJECT_SHARED Models/Misc/generic_church_03.ac 7.8152778 51.6797222 65.45 180
+OBJECT_SHARED Models/Misc/generic_church_03.ac 7.819633 51.68135 65.11 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.752816 51.7158961 67.54 213.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7566275 51.717662 66.11 216.78
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.7613411 51.7198441 64.29 200.86

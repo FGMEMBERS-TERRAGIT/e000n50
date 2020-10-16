@@ -4,7 +4,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 7.005 50.6341667 163.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.0286111 50.6708333 80.46 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.2480556 50.6822222 303.44 180
 OBJECT_SHARED Models/Communications/radio-tall.xml 7.0963889 50.7077778 -257.66 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 7.0944444 50.7372222 -363.19 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.05 50.7016667 -268.09 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.0819444 50.7341667 -339.86 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.1238889 50.7061111 -339.24 180
@@ -297,3 +296,12 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.04408 50.69612 160.86 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.04463 50.69695 160.41 0
 OBJECT_SHARED Models/lib/admin31x12.ac 7.04443 50.69686 160.66 286.53
 # END dsf2stg
+OBJECT_SHARED Models/Commercial/tower-square-white-dark.ac 7.0938 50.73694 -421.41 190
+OBJECT_SHARED Models/Commercial/tower-square-white-dark.ac 7.0939 50.73726 -400.18 190
+OBJECT_SHARED Models/Commercial/tower-square-white-dark.ac 7.0944444 50.7372222 -363.19 190
+OBJECT_SHARED Models/Commercial/tower-square-white-dark.ac 7.09459 50.73674 -395.99 190
+OBJECT_SHARED Models/Commercial/tower-square-white-dark.ac 7.09502 50.73697 -382.43 190
+OBJECT_SHARED Models/Communications/Posttower.xml 7.13 50.7155 59.18 90
+OBJECT_SHARED Models/Misc/Drachenfels_TheRock.ac 7.210144 50.665668 300.2 0
+OBJECT_SHARED Models/Misc/Drachenfels_VisitorCenter.ac 7.2105 50.665 282 90
+OBJECT_STATIC Petersberg.ac 7.20788 50.686 326.19 90

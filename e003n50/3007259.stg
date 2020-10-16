@@ -46,6 +46,13 @@ OBJECT_SHARED Models/Transport/hatchback_silver.ac 3.81807956 50.45851464 20.66 
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 3.81812015 50.45851136 20.64 0
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 3.81820629 50.45851081 20.63 0
 OBJECT_SHARED Models/Transport/van_blue_dirty.ac 3.81803453 50.45851465 20.66 180
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9436111 50.3758333 83.06 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9488889 50.38 91.57 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9505556 50.3752778 83.62 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9544444 50.3830556 87.73 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9555556 50.3777778 83.01 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9586111 50.3877778 78.75 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 3.9611111 50.3802778 77.4 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 3.81807292 50.45840085 20.55 272
 OBJECT_SHARED Models/Misc/picnic_table.ac 3.81807937 50.45836795 20.52 272
 OBJECT_SHARED Models/Misc/picnic_table.ac 3.81813791 50.45840253 20.54 272

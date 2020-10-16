@@ -219,3 +219,6 @@ OBJECT_SHARED Models/Transport/hatchback_black.ac 5.52330 51.01425 83.92 56.48
 OBJECT_SHARED Models/Transport/van_blue_dirty.ac 5.52325 51.01421 83.98 238.75
 OBJECT_SHARED Models/Transport/van_silver.ac 5.52318 51.01415 83.64 56.67
 # END dsf2stg
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.6941667 51.0497222 45.09 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.6991667 51.0477778 36.52 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.7041667 51.0469444 38.06 0

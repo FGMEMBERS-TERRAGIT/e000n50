@@ -742,3 +742,4 @@ OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.36070 51.34701 47.89 165.43
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.36009 51.34573 48.62 255.56
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.36016 51.34589 48.51 255.56
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac 1.419854 51.329046 0 110

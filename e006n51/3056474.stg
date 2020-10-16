@@ -519,3 +519,5 @@ OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 6.58873 51.38400 40.64 104.7
 OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 6.58883 51.38386 40.55 100.49
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.58897 51.38371 40.39 197.93
 # END dsf2stg
+OBJECT_STATIC DuisburgWasserturmAufdemBerg.ac 6.69351 51.40547 35.09 0
+OBJECT_STATIC WasserturmHohenbudberg.ac 6.68223 51.378 32.61 115.9

@@ -50,3 +50,5 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.57843 53.20578 31.06 180
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.57830 53.20594 30.73 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.57830 53.20609 30.64 0
 # END dsf2stg
+OBJECT_SHARED Models/Residential/germansemidetached2.xml 9.617833 53.246198 36.64 15
+OBJECT_SHARED Models/Sport/FootballCourt.xml 9.6225 53.24979 37.71 0

@@ -1,3 +1,6 @@
+OBJECT_SHARED Models/Power/coolingtower.xml 5.2677778 50.5338889 71.67 0
+OBJECT_SHARED Models/Power/coolingtower.xml 5.2758333 50.5325 74.46 0
+OBJECT_SHARED Models/Power/coolingtower.xml 5.2794444 50.5330556 75.93 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4117896 50.5819539 66.56 195.33
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4141071 50.5823572 68.41 196.66
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4146049 50.5842974 66.98 315.37
@@ -38,3 +41,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4812109 50.59687 67.45 242
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.484069 50.5996867 65.43 230.99
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4884035 50.602416 63.99 222.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.4916135 50.6041865 65.49 220.99
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.2744444 50.5975 183.47 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.2797222 50.5977778 190.92 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.2869444 50.5980556 188.66 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.2933333 50.5983333 179.74 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.3 50.5986111 174.69 0

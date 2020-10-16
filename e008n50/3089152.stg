@@ -119,6 +119,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 8.2462594 50.03071
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 8.2469361 50.0314703 86.86 159.21
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 8.2472394 50.0303631 83.19 156.36
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 8.2479994 50.031065 84.59 199.73
+OBJECT_SHARED Models/Maritime/Civilian/Scenic_Opal.ac 8.22498516 50.03151 83 264
 OBJECT_STATIC WiesbadenNerobergTempel.xml 8.2295251 50.098625 248.78 0
 OBJECT_STATIC WiesbadenHauptbahnhof.xml 8.2433912 50.070875 114.19 20
 OBJECT_STATIC Wiesbaden_RheinMainHallen.xml 8.2444603 50.0775156 114.69 275

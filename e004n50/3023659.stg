@@ -1,4 +1,6 @@
 OBJECT_SHARED Models/Airport/localizer.xml 4.752778 50.746389 108.51 308.73
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.9877778 50.7263889 75.45 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.9925 50.725 76.12 0
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.76108504 50.74490458 113.1 344.8
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.76167968 50.745983 111.78 93.6
 OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.76256369 50.74375583 115.74 343.2

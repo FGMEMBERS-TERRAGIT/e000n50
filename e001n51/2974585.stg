@@ -46,4 +46,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 1.2950396 51.9535322 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 1.3495451 51.9273717 -1.92 110.79
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 1.4846201 51.8937181 -2.19 142.65
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 1.4795125 51.8968103 -2.49 164.15
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac 1.28724 51.948565 0 45
 OBJECT_STATIC sealand.ac 1.4744 51.89302 1.79 0

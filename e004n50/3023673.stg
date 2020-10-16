@@ -293,11 +293,10 @@ OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489284 50.90052
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489293 50.904179 34.56 117
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489509 50.904705 33.98 297
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489629 50.900931 38.25 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.489813 50.90068 38.55 117
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.48985 50.904339 34.44 117
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490121 50.904881 33.84 297
+OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.49015138 50.90083057 38.46 117
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490159 50.901085 38.2 297
-OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490341 50.90083 38.51 117
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.490688 50.901239 38.11 297
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.491215 50.901389 38 297
 OBJECT_SHARED Models/Airport/Jetway/ebbr_terminal_2_jetway.xml 4.491401 50.901136 38.32 117
@@ -382,6 +381,8 @@ OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.48947068 50.905180232 3
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.489741399 50.90012902 39.13 30
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490429293 50.904034444 34.86 30
 OBJECT_SHARED Models/Aircraft/737_brussels_airlines.ac 4.490802488 50.900450373 39 30
+OBJECT_SHARED Models/Airport/Jetway/EBBR_Stand_231_Jetway.xml 4.48991624 50.9006375 38.62 117
+OBJECT_SHARED Models/Airport/Jetway/EBBR_Stand_214_Jetway.xml 4.48812373 50.9004872 76.99 297
 OBJECT_STATIC Atomium.xml 4.341111 50.894722 58.52 0
 OBJECT_STATIC ebbr_terminal_1.xml 4.48373 50.899085 38.79 205
 OBJECT_STATIC ebbr_terminal_2.xml 4.481877 50.902323 35.47 204

@@ -112,3 +112,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7159448 50.741031 103.51 74.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7164096 50.7445555 100.56 269.35
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7167002 50.7427582 97.81 265.19
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7167443 50.7462445 98.41 292.6
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml 5.547854 50.625165 169.13 10
