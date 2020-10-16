@@ -312,5 +312,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.3913786 51.4928965 11.64 349.6
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac 0.32606 51.46718 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.3100532 51.4672109 -2.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.4373143 51.4486063 -2.41 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac 0.37203 51.444623 3.3 0
 OBJECT_STATIC TilburyChimney.xml 0.3903282 51.4538738 10.36 180
 OBJECT_STATIC TilburyChimney.xml 0.3904034 51.4553114 32.62 180

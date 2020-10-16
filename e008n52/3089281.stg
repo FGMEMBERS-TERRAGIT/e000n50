@@ -15,7 +15,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 8.4458333 52.0888889 140.54 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4483333 52.0888889 143.82 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4505556 52.0888889 146.75 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4833333 52.1 153.03 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 8.4738889 52.0144444 -21.2 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.3375 52.0625 -323.01 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.4258333 52.0191667 -306.81 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.3971232 52.0227549 118.58 137.22
@@ -62,3 +61,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4895541 52.0599085 99.08 218.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4924981 52.0613016 103.61 218.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4951674 52.0626156 100.22 219.04
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.4972023 52.0636431 101.78 218.96
+OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 8.474209 52.014624 312.32 0

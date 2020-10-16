@@ -12,11 +12,11 @@ OBJECT_SHARED Models/Airport/localizer.xml 3.474517 50.322686 42.69 249
 OBJECT_SHARED Models/Airport/hangar3.ac 3.459351 50.330743 47.91 118
 OBJECT_SHARED Models/Airport/hanger-50fx50f-blue-01.xml 3.460583 50.331238 49.04 28
 OBJECT_SHARED Models/Airport/hangar4.xml 3.4561 50.32985 46.9 210
-OBJECT_SHARED Models/Residential/french_house_n.ac 3.364998 50.2982936 47.32 0
-OBJECT_SHARED Models/Residential/french_house_n.ac 3.3686813 50.2969984 47.47 48
-OBJECT_SHARED Models/Residential/french_house_n.ac 3.3700287 50.3019155 36.89 120
-OBJECT_SHARED Models/Residential/french_house_n.ac 3.3705179 50.2916827 51.61 312
-OBJECT_SHARED Models/Residential/french_house_n.ac 3.3709173 50.2990437 42.12 24
+OBJECT_SHARED Models/Residential/french_house_n.xml 3.364998 50.2982936 47.32 0
+OBJECT_SHARED Models/Residential/french_house_n.xml 3.3686813 50.2969984 47.47 48
+OBJECT_SHARED Models/Residential/french_house_n.xml 3.3700287 50.3019155 36.89 120
+OBJECT_SHARED Models/Residential/french_house_n.xml 3.3705179 50.2916827 51.61 312
+OBJECT_SHARED Models/Residential/french_house_n.xml 3.3709173 50.2990437 42.12 24
 OBJECT_STATIC HangarCyl.ac 3.454974 50.330072 47.15 122
 OBJECT_STATIC HangarCyl.ac 3.455194 50.33016 47.03 122
 OBJECT_STATIC HangarCyl.ac 3.455414 50.330248 47.1 122

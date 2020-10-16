@@ -40,3 +40,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 0.5484 51.4582 5.95 347
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 0.7323699 51.4303456 -0.01 25.8
 OBJECT_STATIC KingsnorthChimney.xml 0.6052297 51.4178116 7.23 180
 OBJECT_STATIC Rochester_Castle_Keep.ac 0.50045105 51.38705015 18.68 12
+OBJECT_STATIC RochesterBaptistChurch.ac 0.505101 51.387225 10.91 226

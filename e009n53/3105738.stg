@@ -25,3 +25,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.57341 53.240963 34.89 236.93
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.57577 53.243136 33.43 236.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.578388 53.245528 33.99 236.91
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.580802 53.247756 33.8 236.8
+OBJECT_SHARED Models/Residential/germansemidetached2.xml 9.617833 53.246198 36.64 15
+OBJECT_SHARED Models/Sport/FootballCourt.xml 9.6225 53.24979 37.71 0

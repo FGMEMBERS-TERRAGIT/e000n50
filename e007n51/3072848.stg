@@ -48,4 +48,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.2426026 51.3237678 267.43 132.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.2452909 51.321984 295.95 134.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.2476344 51.3205753 282.7 135.37
 OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 7.0483333 51.3330556 262.8 0
+OBJECT_SHARED Models/Misc/gothical_church.xml 7.017817 51.373803 192 45
 OBJECT_SHARED Models/Communications/vortac.ac 7.176983 51.327758 250.25 180

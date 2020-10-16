@@ -4,5 +4,5 @@ OBJECT_SHARED Models/Airport/hangar4.xml 1.734853 50.879254 127.11 330
 OBJECT_SHARED Models/Communications/Antenna1.ac 1.7227778 50.9219444 133.67 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 1.685 50.9475 -2.78 191.48
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 1.6203226 50.9340021 -3.99 182.74
-OBJECT_SHARED Models/Residential/french_house_n.ac 1.72961803 50.9172303 99.32 0
+OBJECT_SHARED Models/Residential/french_house_n.xml 1.72961803 50.9172303 99.32 0
 OBJECT_STATIC memorial_DP.ac 1.709909 50.924846 124.47 330

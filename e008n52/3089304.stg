@@ -77,10 +77,10 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 8.1719064 52.4883282 46.3
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 8.2189676 52.4907647 44.34 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 8.2191395 52.4905824 44.14 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml 8.2195118 52.4905505 44.08 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml 8.0919559 52.478801 41.66 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml 8.092127 52.4779263 41.77 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml 8.0925426 52.4794903 41.86 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml 8.0931827 52.4783914 42.59 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac 8.0919559 52.478801 41.66 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac 8.092127 52.4779263 41.77 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac 8.0925426 52.4794903 41.86 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac 8.0931827 52.4783914 42.59 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.1828817 52.488996 45.61 268
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.1828868 52.4891485 45.64 272
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.1894291 52.488536 43.97 80

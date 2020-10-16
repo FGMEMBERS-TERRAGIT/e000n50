@@ -107,6 +107,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2462641 51.3822913 2.6 292.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2474307 51.4272673 0.78 7.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2476632 51.3751876 9.45 260.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2486846 51.3787235 5.38 276.36
+OBJECT_SHARED Models/Maritime/Civilian/CruiseShip.ac 4.178238 51.388066 -0.01 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 4.219972 51.49305 -1.92 174.09
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 4.221708 51.484611 -0.21 3.42
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 4.0056667 51.4675 -1.44 86.8

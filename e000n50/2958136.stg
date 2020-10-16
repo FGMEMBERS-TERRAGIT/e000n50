@@ -36,4 +36,8 @@ OBJECT_SHARED Models/Aircraft/Cessna172_green.xml 0.1556046 50.8794529 18.5 0
 OBJECT_SHARED Models/Aircraft/Cessna172_green.xml 0.1557974 50.8794518 18.55 0
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.1533549 50.8799821 18.95 0
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.1534015 50.8799324 18.88 0
+OBJECT_SHARED Models/Boundaries/10M_Fence_Origin_far_left.ac 0.161033643 50.8825281 24 0
+OBJECT_SHARED Models/Boundaries/2M_Fence_Origin_far_left.ac 0.16169613 50.8825084 24.8 0
+OBJECT_SHARED Models/Boundaries/20M_Fence_Origin_far_left.ac 0.16163771 50.8824926 24.75 0
+OBJECT_SHARED Models/Boundaries/50M_Fence_Origin_far_left.ac 0.161878 50.8826022 25.14 0
 OBJECT_STATIC Deanland_Airfield.ac 0.15247436 50.8802475 18.66 32

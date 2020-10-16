@@ -71,3 +71,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7409204 51.0886818 34.79 262.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7417615 51.0925795 32.96 262.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.7427915 51.0970967 42.19 248.52
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.746611 51.1005463 32.11 234.61
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.6941667 51.0497222 45.09 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.6991667 51.0477778 36.52 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 5.7041667 51.0469444 38.06 0

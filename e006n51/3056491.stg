@@ -1,5 +1,9 @@
 OBJECT_SHARED Models/Power/windturbine.xml 6.8883333 51.6588889 46.11 180
+OBJECT_SHARED Models/Power/windturbine.xml 6.895723 51.651751 44.44 0
+OBJECT_SHARED Models/Power/windturbine.xml 6.898491 51.650593 45.27 0
 OBJECT_SHARED Models/Power/windturbine.xml 6.9213889 51.6922222 48.91 180
+OBJECT_SHARED Models/Power/windturbine.xml 6.929787 51.637621 47.97 0
+OBJECT_SHARED Models/Power/windturbine.xml 6.943831 51.630192 42.59 0
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 6.9941667 51.7072222 -392.93 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.8408333 51.6680556 -396.76 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 6.9844444 51.6719444 -304.32 180
@@ -144,9 +148,13 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9995726 51.6252813 48.08 176.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9997634 51.6788313 35.5 292.03
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9998578 51.6265283 48.12 356.48
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 6.9999779 51.7124673 39.2 291.28
+OBJECT_SHARED Models/Military/AmmoBunker.ac 6.862367 51.631018 58.82 0
+OBJECT_SHARED Models/Military/AmmoBunker.ac 6.863269 51.631025 56.3 0
+OBJECT_SHARED Models/Military/AmmoBunker.ac 6.864309 51.631018 53.43 0
 OBJECT_SHARED Models/Residential/MontHse1Red_Tile_Yellow.xml 6.9791965 51.66180996 30.78 268
 OBJECT_SHARED Models/Airport/windsock_lit.xml 6.9801237 51.66192027 30.74 0
 OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 6.97955108 51.66156733 30.09 85.3
 OBJECT_SHARED Models/Sport/RollerCoaster.ac 6.97342965 51.62523706 41.97 0
 OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 6.97979216 51.66188226 30.6 0
 OBJECT_SHARED Models/Aircraft/ask21-red.xml 6.97970004 51.66193258 30.71 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 6.895466 51.654241 44.27 0

@@ -1,7 +1,6 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 2.3458333 51.0316667 -140.11 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 2.3788889 51.0383333 -393.88 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 2.3736111 51.0288889 -438.98 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 2.3652778 51.05 -443.92 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac 2.3794444 51.0388889 -398.66 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 2.2555556 51.0138889 -387.45 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 2.2930556 51.0425 -352.75 180
@@ -25,4 +24,12 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 2.3716667 51.0725 -1.75 75.86
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 2.4086667 51.0763333 -2.11 358.92
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 2.4513333 51.081 -1.13 174.09
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 2.4766667 51.0853333 -0.55 67.74
+OBJECT_SHARED Models/Maritime/Misc/pier_50m.ac 2.34214 51.057041 0 37
+OBJECT_SHARED Models/Maritime/Misc/pier_200m.ac 2.3436 51.057735 0 37
+OBJECT_SHARED Models/Maritime/Misc/pier_200m.ac 2.345877 51.058816 0 37
+OBJECT_SHARED Models/Maritime/Misc/pier_200m.ac 2.348158 51.059898 0 37
+OBJECT_SHARED Models/Industrial/factory_b_120x060.xml 2.36083 51.05226 0.06 90
+OBJECT_SHARED Models/Industrial/logistic_hangar_350x50.ac 2.36238 51.05051 0.08 140
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 2.362 51.0713333 -1.53 209.26
+OBJECT_SHARED Models/Maritime/Misc/PhareRisban.ac 2.36444 51.04889 -2.67 19
+OBJECT_SHARED Models/Maritime/Misc/FeuSaintPol.ac 2.34942 51.06054 0 37

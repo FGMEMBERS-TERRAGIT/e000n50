@@ -83,3 +83,5 @@ OBJECT_SHARED Models/Maritime/Civilian/RNLI_Hovercraft.xml 0.72653 51.5243 -0.05
 OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml 0.72685 51.52421 -0.06 0
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml 0.72629 51.52427 -0.06 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac 0.54922 51.5102 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac 0.72322 51.514558 -0.05 110
+OBJECT_STATIC XL426.ac 0.70519 51.572895 10.42 80

@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Power/coolingtower.xml 4.3008333 50.8025 23.71 0
 OBJECT_SHARED Models/Airport/ndb.ac 4.466944 50.826944 88.66 180
 OBJECT_SHARED Models/Airport/marker.ac 4.466944 50.826944 88.66 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.2518738 50.7569286 32.09 344.8
@@ -120,6 +121,13 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.353075 5
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358407 50.846474 47.26 108
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.359416 50.864483 16.4 60
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.377716 50.843231 57.19 108
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2583333 50.7544444 25.72 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2611111 50.7577778 24.53 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2611111 50.7608333 25.75 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2638889 50.7636111 20.61 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2669444 50.7658333 22.29 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2808333 50.77 23.34 0
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.2861111 50.7744444 22.23 0
 OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.309292 50.855796 48.61 108
 OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.310623 50.855071 46.52 108
 OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac 4.325031 50.860261 29.18 108
