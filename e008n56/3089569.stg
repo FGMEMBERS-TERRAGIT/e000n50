@@ -19,3 +19,11 @@ OBJECT_SHARED Models/Power/windturbine.xml 8.4823296 56.5026634 36.58 180
 OBJECT_SHARED Models/Power/windturbine.xml 8.4829225 56.5005186 36.48 180
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 8.2881592 56.5845354 -0.02 292.09
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 8.294339 56.5863315 -0.01 94.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.30462 56.50510 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac 8.30603 56.50466 29.89 294.67
+OBJECT_SHARED Models/lib/MedHangar.ac 8.30447 56.50500 29.41 171.03
+OBJECT_SHARED Models/lib/shed8x10.ac 8.30539 56.50519 29.94 269.08
+# END dsf2stg

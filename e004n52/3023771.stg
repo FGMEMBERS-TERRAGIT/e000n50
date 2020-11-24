@@ -340,3 +340,11 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 4.896489 52.3836 0.83 
 OBJECT_STATIC hemwegcentrale.ac 4.84591 52.40573 11.93 90
 OBJECT_STATIC toren_overhoeks.ac 4.90211 52.38385 4.74 90
 OBJECT_STATIC belastingdienst.ac 4.8436 52.38763 9.89 90
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 4.80443 52.41486 0.00 344.66
+OBJECT_SHARED Models/lib/cars10.ac 4.80408 52.41461 -0.34 255
+OBJECT_SHARED Models/lib/cars10.ac 4.80368 52.41437 0.81 75
+OBJECT_SHARED Models/lib/SmHangar.ac 4.80418 52.41481 1.29 166
+# END dsf2stg

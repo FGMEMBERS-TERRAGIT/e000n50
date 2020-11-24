@@ -20,3 +20,11 @@ OBJECT_SHARED Models/Residential/french_house_n.xml 3.1837548 50.2144535 59.51 0
 OBJECT_SHARED Models/Residential/french_house_n.xml 3.1899185 50.2102515 60.06 0
 OBJECT_SHARED Models/Residential/french_house_n.xml 3.1948436 50.2249147 62.06 24
 OBJECT_SHARED Models/Residential/french_house_n.xml 3.2484759 50.1356631 81.47 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 3.14732 50.21868 0.00 355.86
+OBJECT_SHARED Models/lib/LongRow.ac 3.14759 50.21850 75.51 355.86
+OBJECT_SHARED Models/lib/LongRow.ac 3.14650 50.21855 75.60 355.86
+OBJECT_SHARED Models/lib/LongRow.ac 3.14652 50.21872 75.36 355.86
+# END dsf2stg

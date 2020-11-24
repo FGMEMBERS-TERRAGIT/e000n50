@@ -7,5 +7,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 1.2358382 52.5274004 29.25 232.8
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac 1.05416 52.50213 54.81 23.86
+OBJECT_SHARED Models/lib/shed8x10.ac 1.05416 52.50213 53.52 23.86
 # END dsf2stg

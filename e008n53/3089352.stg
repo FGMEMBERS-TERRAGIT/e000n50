@@ -28,3 +28,14 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.249037 53.1381865 3.81 18.87
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.2178256 53.1306524 0.52 221.4
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.2181836 53.1310536 1.1 138.48
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.2185526 53.1314975 1.39 271.66
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac 8.21728 53.21678 0.00 128.6
+OBJECT_SHARED Models/lib/cars6.ac 8.21675 53.21708 18.39 39.33
+OBJECT_SHARED Models/lib/office32x25n.ac 8.21611 53.21695 18.92 38.71
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 8.21767 53.21605 19.79 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 8.21788 53.21611 17.84 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 8.21778 53.21624 17.68 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 8.21758 53.21617 17.81 0
+# END dsf2stg

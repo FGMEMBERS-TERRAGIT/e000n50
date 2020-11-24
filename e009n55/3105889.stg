@@ -12,3 +12,11 @@ OBJECT_SHARED Models/Power/windturbine.xml 9.3886527 55.5070103 40.33 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.3889 55.5510305 52.57 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.4714348 55.5518012 57.6 180
 OBJECT_SHARED Models/Power/windturbine.xml 9.4718175 55.5489422 55.44 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 9.48380 55.50467 0.00 -56.31
+OBJECT_SHARED Models/lib/lamp10m.xml 9.48364 55.50466 42.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml 9.48349 55.50466 42.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml 9.48331 55.50467 42.37 234.46
+# END dsf2stg

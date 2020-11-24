@@ -3,3 +3,9 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 3.0616667 50.3636111 24.41 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 3.1638889 50.3125 52.58 180
 OBJECT_STATIC MairieDouai.ac 3.0806 50.3679 33.78 255
 OBJECT_STATIC ColDouai.ac 3.081735 50.370016 35.83 83.4
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 3.00068 50.33620 0.00 256.4
+OBJECT_SHARED Models/lib/cars4.ac 3.00027 50.33602 46.85 76.4
+# END dsf2stg

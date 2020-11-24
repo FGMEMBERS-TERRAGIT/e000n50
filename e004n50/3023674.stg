@@ -82,3 +82,19 @@ OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 4.509693 50.899395 -43
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 4.510208 50.89861 -42.58 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac 4.538056 50.902222 41.25 180
 OBJECT_STATIC ebbr_control_tower.ac 4.508598 50.907808 31.61 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 4.50231 50.90126 0.00 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 4.50248 50.90169 39.73 0
+OBJECT_SHARED Models/lib/office40x25.ac 4.50475 50.90030 42.73 327.48
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50886 50.89841 -54.80 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50949 50.89855 -47.43 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50955 50.89883 -47.50 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.51020 50.89859 -47.92 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50906 50.89932 -47.57 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50898 50.89898 -48.68 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50891 50.89870 -48.26 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50961 50.89912 -47.84 5
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 4.50969 50.89940 -48.34 5
+# END dsf2stg

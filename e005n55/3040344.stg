@@ -16,5 +16,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 5.1594417 55.4703933 -
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/OilRig.ac 5.10536 55.47810 -0.46 340
+OBJECT_SHARED Models/lib/OilRig.ac 5.10536 55.47810 0.00 340
 # END dsf2stg

@@ -28,3 +28,13 @@ OBJECT_SHARED Models/Military/shelter.ac 9.246476 55.226811 37.33 180
 OBJECT_SHARED Models/Military/shelter.ac 9.247243 55.216141 37.7 180
 OBJECT_SHARED Models/Military/shelter.ac 9.247913 55.218308 37.61 180
 OBJECT_SHARED Models/Military/shelter.ac 9.248938 55.228163 38.38 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24587 55.22694 0.00 67.25
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24790 55.22735 36.76 8.53
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24822 55.22805 38.06 185.76
+OBJECT_SHARED Models/lib/fboModern1.ac 9.24738 55.21642 41.51 260.83
+OBJECT_SHARED Models/lib/lamp10m.xml 9.24693 55.21656 39.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.24777 55.21647 37.93 0
+# END dsf2stg

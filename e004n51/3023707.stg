@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 4.7508333 51.4969444 6.17 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 4.97531 51.40117 0.00 66.07
+# END dsf2stg

@@ -83,3 +83,15 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 5.090517 52.9818 0.27 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 5.090517 52.990317 -0.01 236.73
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 5.044233 52.941186 3.65 114.08
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 5.099533 52.972522 0.39 347.46
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.01055 52.89922 0.00 326.799
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.01051 52.89919 -1.35 330.642
+OBJECT_SHARED Models/lib/cars10.ac 5.01091 52.89923 -1.36 327.691
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 5.00115 52.89052 -1.28 358.298
+OBJECT_SHARED Models/Transport/hatchback_red.ac 5.01042 52.89876 -2.80 150.087
+OBJECT_SHARED Models/lib/transformer3x3.ac 5.01017 52.89929 -1.64 58.1057
+OBJECT_SHARED Models/lib/cars4.ac 5.01153 52.89882 -1.40 147.577
+OBJECT_SHARED Models/lib/cars4.ac 5.01149 52.89900 -1.33 327.444
+# END dsf2stg

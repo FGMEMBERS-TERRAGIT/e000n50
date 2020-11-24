@@ -27,5 +27,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.0341453 50.8472919 293.2 199.6
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 9.24114 50.75001 286.23 101.99
+OBJECT_SHARED Models/lib/MedHangar.ac 9.24114 50.75001 0.00 101.99
 # END dsf2stg
